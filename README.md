@@ -41,4 +41,4 @@ Dead Pigeon requires a user to generate a secure passcode using a file and a sec
 
 ## Caveats
 
-`dead pigeon` is a proof-of-concept of ecnrypted anonymous communication with a a probably prime perspective of 7 years. (Statute of Limitations). This should be customizable.
+`dead pigeon` is a proof-of-concept of ecnrypted anonymous communication with a a probably prime perspective of 7 years. This should be customizable.
