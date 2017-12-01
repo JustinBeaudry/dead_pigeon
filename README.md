@@ -13,9 +13,10 @@ anonymous peer-to-peer communication
 * each user their own database?
 * URL's are hashes
 * TOR Hidden Service
-* eCurrency side-chain, using various eCurrencies (bitcoin, litecoin, dogecoin)
+* eCurrency side-chain, using various eCurrencies (bitcoin, etherium)
 * Messages are routed from user to user
-* peer-to-peer (cryptosphere?)
+* [peer-to-peer](https://tools.ietf.org/html/rfc5694)
+* [EEC](https://en.wikipedia.org/wiki/Elliptic-curve_cryptography)
 
 ## Storage
 

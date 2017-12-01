@@ -1,0 +1,24 @@
+{
+  "name": "dead_pigeon",
+  "version": "1.0.0",
+  "description": "anonymous peer-to-peer communication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JustinBeaudry/dead_pigeon.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JustinBeaudry/dead_pigeon/issues"
+  },
+  "homepage": "https://github.com/JustinBeaudry/dead_pigeon#readme",
+  "dependencies": {
+    "moment": "^2.19.3",
+    "node-uuid": "^1.4.8"
+  }
+}
